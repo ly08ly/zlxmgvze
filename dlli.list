@@ -2,7 +2,6 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,4d4y.com
 DOMAIN-SUFFIX,emotn.com
 DOMAIN-SUFFIX,api2d.net
@@ -10,8 +9,6 @@ DOMAIN-SUFFIX,masobu.com
 DOMAIN-SUFFIX,consensus.app
 DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,fujifilmshop.com.hk
-
-
 
 # IPTV
 DOMAIN-SUFFIX,livednow.com
@@ -25,15 +22,12 @@ DOMAIN-SUFFIX,mytvsuper.com
 # IPTVTW
 DOMAIN-SUFFIX,cdn.hinet.net
 
-
-
+# 以下部分同步 https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/main/proxy.list
+# 域名后缀匹配
+DOMAIN-SUFFIX,qichiyu.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-
-# IP段匹配
-IP-CIDR,142.171.133.131/32,no-resolve
-IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
