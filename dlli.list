@@ -14,7 +14,10 @@ DOMAIN-REGEX,^.*rmcdn\d+\.xyz$
 DOMAIN-REGEX,^.*roum\d+\.xyz$
 DOMAIN-SUFFIX,jm18c-tdc.club
 DOMAIN-KEYWORD,18comic
-
+DOMAIN-SUFFIX,meijuntu.com
+DOMAIN-SUFFIX,wujituku.com
+DOMAIN-SUFFIX,tuqu8.top
+DOMAIN-SUFFIX,876512.xyz
 
 # IPTV
 DOMAIN-SUFFIX,livednow.com
