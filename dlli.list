@@ -10,6 +10,11 @@ DOMAIN-SUFFIX,consensus.app
 DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,fujifilmshop.com.hk
 DOMAIN-SUFFIX,abfb63b.com
+DOMAIN-REGEX,^.*rmcdn\d+\.xyz$
+DOMAIN-REGEX,^.*roum\d+\.xyz$
+DOMAIN-SUFFIX,jm18c-tdc.club
+DOMAIN-KEYWORD,18comic
+
 
 # IPTV
 DOMAIN-SUFFIX,livednow.com
