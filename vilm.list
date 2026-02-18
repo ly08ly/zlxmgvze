@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,cn.pool.ntp.org
 
 
 # pt
