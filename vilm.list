@@ -14,8 +14,7 @@ DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,sctapi.ftqq.com
-DOMAIN-SUFFIX,controlplane.tailscale.com
-DOMAIN-SUFFIX,derp.tailscale.com
+DOMAIN-SUFFIX,tailscale.com
 
 
 # pt
