@@ -1,20 +1,13 @@
 #tailscale
-
 controlplane.tailscale.com
 discovery.tailscale.com
 derp.tailscale.com
-
-
 #GEOSITE(Meta core)
 #geosite:category-games
 geosite:apple-cn
 geosite:google-cn
-
-
 #举例
 #ntp7.*.com
 #*.time.edu.cn
 #*.ntp.org.cn
 #+.pool.ntp.org
-
-
