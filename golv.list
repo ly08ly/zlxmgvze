@@ -5,10 +5,10 @@ discovery.tailscale.com
 derp.tailscale.com
 
 
-#GEOSITE(Meta core)
+GEOSITE(Meta core)
 #geosite:category-games
-#geosite:apple-cn
-#geosite:google-cn
+geosite:apple-cn
+geosite:google-cn
 
 
 #举例
