@@ -17,8 +17,8 @@ DOMAIN-SUFFIX,sctapi.ftqq.com
 DOMAIN-SUFFIX,tailscale.com
 
 # google play
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,googleapis.cn
+#DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+#DOMAIN-SUFFIX,googleapis.cn
 
 # pt
 DOMAIN-SUFFIX,open.cd
