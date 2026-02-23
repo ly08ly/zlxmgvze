@@ -2,10 +2,14 @@
 controlplane.tailscale.com
 discovery.tailscale.com
 derp.tailscale.com
+
 #GEOSITE(Meta core)
 #geosite:category-games
 #geosite:apple-cn
 #geosite:google-cn
++.xn--ngstr-lra8j.com
++.googleapis.cn
+
 #举例
 #ntp7.*.com
 #*.time.edu.cn
