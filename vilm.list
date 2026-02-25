@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,sctapi.ftqq.com
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,cn-ms.samsungapps.com
 
 # google play
 #DOMAIN-SUFFIX,xn--ngstr-lra8j.com
