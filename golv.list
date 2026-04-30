@@ -3,6 +3,10 @@ controlplane.tailscale.com
 discovery.tailscale.com
 derp.tailscale.com
 
+#my
+wendaoyang.com
+wdsyang.com
+
 #GEOSITE(Meta core)
 #geosite:category-games
 #geosite:apple-cn
