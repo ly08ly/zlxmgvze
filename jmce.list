@@ -1,0 +1,59 @@
+# 代理补充列表
+
+# IP test
+# 域名后缀匹配
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,mastersgo.cc
+DOMAIN-SUFFIX,net.coffee
+DOMAIN-SUFFIX,browserleaks.com
+IX,consensus.app
+DOMAIN-SUFFIX,sider.ai
+DOMAIN-SUFFIX,fujifilmshop.com.hk
+DOMAIN-SUFFIX,abfb63b.com
+DOMAIN-REGEX,^.*rmcdn\d+\.xyz$
+DOMAIN-REGEX,^.*roum\d+\.xyz$
+DOMAIN-SUFFIX,jm18c-tdc.club
+DOMAIN-KEYWORD,18comic
+DOMAIN-SUFFIX,meijuntu.com
+DOMAIN-SUFFIX,wujituku.com
+DOMAIN-SUFFIX,tuqu8.top
+DOMAIN-SUFFIX,876512.xyz
+
+# IPTV
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,livednow.org
+DOMAIN-SUFFIX,wx.sb
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,mytvsuper.com
+
+# IPTVTW
+DOMAIN-SUFFIX,cdn.hinet.net
+
+# 以下部分同步 https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/main/proxy.list
+# 域名后缀匹配
+DOMAIN-SUFFIX,qichiyu.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,1e100
+
+# 国外DNS
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,dns.umbrella.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,doh.dns.sb
+DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,hk-hkg.doh.sb
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,185.222.222.222/32,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
