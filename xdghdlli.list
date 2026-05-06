@@ -9,3 +9,8 @@ DOMAIN-SUFFIX,primo.exlibrisgroup.com
 # PS5
 DOMAIN-SUFFIX,np.communication.playstation.net
 DOMAIN-SUFFIX,np.stun.playstation.net
+
+# sci-hub
+DOMAIN-SUFFIX,sci-hub.ru
+DOMAIN-SUFFIX,sci-hub.st
+DOMAIN-SUFFIX,sci-hub.su
