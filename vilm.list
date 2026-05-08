@@ -60,6 +60,8 @@ IP-CIDR,116.22.208.0/23
 
 # 发票
 DOMAIN-SUFFIX,51fapiao.cn
+DOMAIN-SUFFIX,guangdong.chinatax.gov.cn
+DOMAIN-SUFFIX,chinatax.gov.cn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
