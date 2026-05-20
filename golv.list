@@ -2,6 +2,8 @@
 controlplane.tailscale.com
 discovery.tailscale.com
 derp.tailscale.com
++.tailscale.com
++.tailscale.io
 
 #my
 +.wendaoyang.com
