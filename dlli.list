@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,zoom.com
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoom.com.cn
+IP-CIDR,147.90.40.85/32,no-resolve
 
 # IPTVTW
 DOMAIN-SUFFIX,cdn.hinet.net
