@@ -30,6 +30,11 @@ DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,mytvsuper.com
 
+# Zoom
+DOMAIN-SUFFIX,zoom.com
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoom.com.cn
+
 # IPTVTW
 DOMAIN-SUFFIX,cdn.hinet.net
 
