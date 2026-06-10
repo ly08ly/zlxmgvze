@@ -37,6 +37,8 @@ DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,checkipv6.synology.com
 
+# AliMail
+DOMAIN-SUFFIX,qiye.aliyun.com
 
 # IPTV
 DOMAIN-SUFFIX,dnsany.com
