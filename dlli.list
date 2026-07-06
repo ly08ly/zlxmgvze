@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,crossoverchina.com
 
 #MDC
 DOMAIN-SUFFIX,mvdc.top
+#MDC?
+IP-CIDR,103.181.165.71/32,no-resolve
 
 #openhuman
 DOMAIN-SUFFIX,tinyhumans.ai
