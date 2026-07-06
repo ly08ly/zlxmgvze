@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,876512.xyz
 DOMAIN-SUFFIX,zbx999.com
 DOMAIN-SUFFIX,crossoverchina.com
 
+#MDC
+DOMAIN-SUFFIX,mvdc.top
+
 #openhuman
 DOMAIN-SUFFIX,tinyhumans.ai
 
