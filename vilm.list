@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,cn-ms.samsungapps.com
 #DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 #DOMAIN-SUFFIX,googleapis.cn
 
+# deepseek
+DOMAIN-SUFFIX,deepseek.com
+
 # pt
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,ourbits.club
