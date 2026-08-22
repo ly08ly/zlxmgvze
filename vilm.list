@@ -25,6 +25,9 @@ DOMAIN-SUFFIX,cn-ms.samsungapps.com
 # deepseek
 DOMAIN-SUFFIX,deepseek.com
 
+# LM Studio
+DOMAIN-SUFFIX,search.lmstudio.ai
+
 # pt
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,ourbits.club
