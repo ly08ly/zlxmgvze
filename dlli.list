@@ -30,6 +30,9 @@ IP-CIDR,103.181.165.71/32,no-resolve
 #openhuman
 DOMAIN-SUFFIX,tinyhumans.ai
 
+#genspark
+https://www.genspark.ai/
+
 # IPTV
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,livednow.org
