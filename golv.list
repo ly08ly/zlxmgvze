@@ -5,16 +5,11 @@ derp.tailscale.com
 +.tailscale.com
 +.tailscale.io
 
-DOMAIN-SUFFIX,tailscale.com
-DOMAIN-SUFFIX,tailscale.io
 
 #my
 +.wendaoyang.com
 web.wdsyang.com
 +.wdsyang.com
-
-DOMAIN-SUFFIX,wendaoyang.com
-DOMAIN-SUFFIX,wdsyang.com
 
 #GEOSITE(Meta core)
 #geosite:category-games
@@ -23,8 +18,6 @@ DOMAIN-SUFFIX,wdsyang.com
 +.xn--ngstr-lra8j.com
 +.googleapis.cn
 
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,googleapis.cn
 
 #举例
 #ntp7.*.com
