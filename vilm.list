@@ -28,6 +28,9 @@ DOMAIN-SUFFIX,deepseek.com
 # LM Studio
 DOMAIN-SUFFIX,search.lmstudio.ai
 
+# ss
+DOMAIN-SUFFIX,api-huacloud.com
+
 # pt
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,ourbits.club
