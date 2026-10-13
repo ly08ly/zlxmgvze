@@ -23,6 +23,12 @@ DOMAIN-SUFFIX,zbx999.com
 DOMAIN-SUFFIX,crossoverchina.com
 DOMAIN-SUFFIX,huangguoduanju.net
 
+# huggingface
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,huggingface.co
+
+
 #MDC
 DOMAIN-SUFFIX,mvdc.top
 #MDC?
