@@ -28,6 +28,9 @@ DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,huggingface.co
 
+# google
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,developers.google.cn
 
 #MDC
 DOMAIN-SUFFIX,mvdc.top
